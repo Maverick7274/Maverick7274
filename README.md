@@ -12,7 +12,7 @@ I'm a 4th-year Computer Science student passionate about software development, A
 - **Tech Stack:** FastAPI, React, Python
 - Aimed at simplifying legal research through AI, FiduciaryAI provides intuitive and efficient tools for legal professionals to find relevant case laws, statutes, and legal articles.
 
-### Elevated CodeChums
+### [Elevated CodeChums](https://elevated.codechums.org)
 - **Tech Podcast**
 - **Platform:** YouTube, Spotify, Instagram
 - Co-founded with [Rishit Jain](https://github.com/Rishitjain4874). We explore the latest in technology, AI advancements, and project updates, building a community of like-minded individuals.
