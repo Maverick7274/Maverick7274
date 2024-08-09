@@ -17,7 +17,7 @@ I'm a 4th-year Computer Science student passionate about software development, A
 - **Platform:** YouTube, Spotify, Instagram
 - Co-founded with [Rishit Jain](https://github.com/Rishitjain4874). We explore the latest in technology, AI advancements, and project updates, building a community of like-minded individuals.
 
-## My Portfolio(Version 1.0)
+## [My Portfolio(Version 1.0)](https://neelanjanmukherji.in/)
 - **Tech Stack:** Nextjs, Tailwind CSS, GSAP, Prism Headless CMS
 - This is the first iteration of my Portfolio. As I evolve in my technical prowess I will surely update it with the latest and greatest technology
 
