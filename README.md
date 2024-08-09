@@ -17,12 +17,16 @@ I'm a 4th-year Computer Science student passionate about software development, A
 - **Platform:** YouTube, Spotify, Instagram
 - Co-founded with [Rishit Jain](https://github.com/Rishitjain4874). We explore the latest in technology, AI advancements, and project updates, building a community of like-minded individuals.
 
+## My Portfolio(Version 1.0)
+- **Tech Stack:** Nextjs, Tailwind CSS, GSAP, Prism Headless CMS
+- This is the first iteration of my Portfolio. As I evolve in my technical prowess I will surely update it with the latest and greatest technology
+
 ### BlockProffer
 - **Decentralized E-Voting App**
 - **Tech Stack:** Solidity, JavaScript, Node.js, React, MongoDB
 - A secure, decentralized application that leverages blockchain technology to facilitate transparent and tamper-proof electronic voting processes.
 
-### Sorting Visualizer
+### [Sorting Visualizer](https://sorting-visualizer-orcin-one.vercel.app/)
 - **Algorithm Visualization Tool**
 - **Tech Stack:** JavaScript, React
 - An interactive tool for visualizing and understanding sorting algorithms.
