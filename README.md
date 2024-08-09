@@ -30,7 +30,7 @@ I'm a 4th-year Computer Science student passionate about software development, A
 - A secure, decentralized application that leverages blockchain technology to facilitate transparent and tamper-proof electronic voting processes.
 ---
 ### [Sorting Visualizer](https://sorting-visualizer-orcin-one.vercel.app/)
----
+
 - **Algorithm Visualization Tool**
 - **Tech Stack:** JavaScript, React
 - An interactive tool for visualizing and understanding sorting algorithms.
