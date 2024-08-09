@@ -6,36 +6,35 @@
 I'm a 4th-year Computer Science student passionate about software development, AI, and technology trends. With a solid foundation in full-stack development and cloud computing, I enjoy building projects that solve real-world problems.
 
 ## 🚀 Projects
-
-### FiduciaryAI
 ---
+### FiduciaryAI
 - **AI-Powered Legal Research Assistant**
 - **Tech Stack:** FastAPI, React, Python
 - Aimed at simplifying legal research through AI, FiduciaryAI provides intuitive and efficient tools for legal professionals to find relevant case laws, statutes, and legal articles.
-
-### [Elevated CodeChums](https://elevated.codechums.org)
 ---
+### [Elevated CodeChums](https://elevated.codechums.org)
+
 - **Tech Podcast**
 - **Platform:** YouTube, Spotify, Instagram
 - Co-founded with [Rishit Jain](https://github.com/Rishitjain4874). We explore the latest in technology, AI advancements, and project updates, building a community of like-minded individuals.
-
-### [My Portfolio(Version 1.0)](https://neelanjanmukherji.in/)
 ---
+### [My Portfolio(Version 1.0)](https://neelanjanmukherji.in/)
+
 - **Tech Stack:** Nextjs, Tailwind CSS, GSAP, Prism Headless CMS
 - This is the first iteration of my Portfolio. As I evolve in my technical prowess I will surely update it with the latest and greatest technology
-
-### BlockProffer
 ---
+### BlockProffer
+
 - **Decentralized E-Voting App**
 - **Tech Stack:** Solidity, JavaScript, Node.js, React, MongoDB
 - A secure, decentralized application that leverages blockchain technology to facilitate transparent and tamper-proof electronic voting processes.
-
+---
 ### [Sorting Visualizer](https://sorting-visualizer-orcin-one.vercel.app/)
 ---
 - **Algorithm Visualization Tool**
 - **Tech Stack:** JavaScript, React
 - An interactive tool for visualizing and understanding sorting algorithms.
-
+---
 ## 🛠️ Technical Skills
 
 - **Languages:** JavaScript, TypeScript, Python
